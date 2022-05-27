@@ -1,0 +1,25 @@
+/* General */
+.main-container {
+  width: 100%;
+}
+
+
+/* Header */
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: .75em;
+  font-size: .8rem;
+  padding: 2em;
+  color: #fff;
+  background-color: #9b5de5;
+}
+
+.header-icon {
+  height: 2em;
+}
+
+
+/* xxx */
