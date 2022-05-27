@@ -9,7 +9,7 @@ function Card(props) {
       <div className="card-details-container">
         <div>
           <h2>{props.item.title}</h2>
-          <a href={props.item.googleMapsUrl}>View on Google Maps</a>
+          <a href={props.item.googleMapsUrl} target="_blank" rel="noreferrer">View on Google Maps</a>
         </div>
         <p className="card-travel-time">{props.item.travelTime}</p>
         <p>{props.item.description}</p>
