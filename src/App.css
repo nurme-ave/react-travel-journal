@@ -66,18 +66,14 @@ a {
   }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 900px) {
   .card-container {
     flex-direction: row;
     width: 100%;
     max-width: 800px;
-    gap: 2em;
-    padding-bottom: 3em;
+    gap: 4em;
+    padding-bottom: 4em;
     font-size: .95rem;
-  }
-
-  .card-image{
-    border-radius: 0 .5em .5em 0;
   }
 
   .card-details-container {
