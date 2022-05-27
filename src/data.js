@@ -20,7 +20,7 @@ const travelData = [
     title: "Porto de Galinhas, Brazil",
     googleMapsUrl: "https://goo.gl/maps/dqo3f5StE3cVkQiJ8",
     travelTime: "July 2021",
-    description: "Hawaii is a state in the Western United States, located in the Pacific Ocean about 2,000 miles from the U.S. mainland. It is the only U.S. state outside North America, the only state that is an archipelago, and the only state in the tropics.",
+    description: "Porto de Galinhas is a beach in the municipality of Ipojuca, Pernambuco, Brazil. The beach is famous for its bright-water beaches and the natural pools. It is part of the municipality of Ipojuca, and located 60 kilometers (37 mi) south of the state capital, Recife.",
     imageUrl: "https://source.unsplash.com/ufEBXnMK4xs"
   },
   {
@@ -28,7 +28,7 @@ const travelData = [
     title: "Hawaii, United States",
     googleMapsUrl: "https://goo.gl/maps/bGShyWU9nWvvAQbd9",
     travelTime: "August 2021",
-    description: "Porto de Galinhas is a beach in the municipality of Ipojuca, Pernambuco, Brazil. The beach is famous for its bright-water beaches and the natural pools. It is part of the municipality of Ipojuca, and located 60 kilometers (37 mi) south of the state capital, Recife.",
+    description: "Hawaii is a state in the Western United States, located in the Pacific Ocean about 2,000 miles from the U.S. mainland. It is the only U.S. state outside North America, the only state that is an archipelago, and the only state in the tropics.",
     imageUrl: "https://source.unsplash.com/KMn4VEeEPR8"
   },
   {

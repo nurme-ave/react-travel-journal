@@ -67,6 +67,10 @@ a {
 }
 
 @media screen and (min-width: 900px) {
+  .header-container {
+    margin-bottom: 4.6em;
+  }
+
   .card-container {
     flex-direction: row;
     width: 100%;
