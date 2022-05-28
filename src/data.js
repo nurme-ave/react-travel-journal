@@ -12,7 +12,7 @@ const travelData = [
     title: "Cascais, Portugal",
     googleMapsUrl: "https://goo.gl/maps/kFrbXUD87Xr33pyW6",
     travelTime: "June 2021",
-    description: "Cascais is a town and municipality in the Lisbon District of Portugal, located on the Portuguese Riviera. The municipality has a total of 214,158 inhabitants[1] in an area of 97.40 km2.",
+    description: "Cascais is a town and municipality in the Lisbon District of Portugal, located on the Portuguese Riviera. The municipality has a total of 214,158 inhabitants in an area of 97.40 km2.",
     imageUrl: "https://source.unsplash.com/aCVIH_FuyjY"
   },
   {
@@ -36,7 +36,7 @@ const travelData = [
     title: "Geneva, Switzerland",
     googleMapsUrl: "https://goo.gl/maps/svdbkpxfnsfp3UEe7",
     travelTime: "January 2022",
-    description: "Geneva s the second-most populous city in Switzerland (after Zürich) and the most populous city of Romandy, the French-speaking part of Switzerland. Situated in the south west of the country, where the Rhône exits Lake Geneva.",
+    description: "Geneva is the second-most populous city in Switzerland (after Zürich) and the most populous city of Romandy, the French-speaking part of Switzerland. Situated in the south west of the country, where the Rhône exits Lake Geneva.",
     imageUrl: "https://source.unsplash.com/AWjVCFcUIbY"
   },
 ]
