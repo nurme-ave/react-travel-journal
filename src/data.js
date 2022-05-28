@@ -4,7 +4,7 @@ const travelData = [
     title: "Annecy, France",
     googleMapsUrl: "https://goo.gl/maps/KVqBhXVJ5jRxt8o96",
     travelTime: "May 2021",
-    description: "Annecy is the prefecture and largest city of the Haute-Savoie department in the Auvergne-Rhône-Alpes region of Southeastern France. It lies on the northern tip of Lake Annecy, 35 kilometres (22 mi) south of Geneva, Switzerland.",
+    description: "Annecy is an alpine town in southeastern France, where Lake Annecy feeds into the Thiou River. It's known for its Vieille Ville (old town), with cobbled streets, winding canals and pastel-colored houses.",
     imageUrl: "https://source.unsplash.com/OxXAUrIFBRg"
   },
   {
@@ -12,7 +12,7 @@ const travelData = [
     title: "Cascais, Portugal",
     googleMapsUrl: "https://goo.gl/maps/kFrbXUD87Xr33pyW6",
     travelTime: "June 2021",
-    description: "Cascais is a town and municipality in the Lisbon District of Portugal, located on the Portuguese Riviera. The municipality has a total of 214,158 inhabitants in an area of 97.40 km2.",
+    description: "Cascais is a coastal resort town in Portugal, just west of Lisbon. It's known for its sandy beaches and busy marina. The old town is home to the medieval Nossa Senhora da Luz Fort and the Citadel Palace, a former royal retreat.",
     imageUrl: "https://source.unsplash.com/aCVIH_FuyjY"
   },
   {
@@ -36,7 +36,7 @@ const travelData = [
     title: "Geneva, Switzerland",
     googleMapsUrl: "https://goo.gl/maps/svdbkpxfnsfp3UEe7",
     travelTime: "January 2022",
-    description: "Geneva is the second-most populous city in Switzerland (after Zürich) and the most populous city of Romandy, the French-speaking part of Switzerland. Situated in the south west of the country, where the Rhône exits Lake Geneva.",
+    description: "Geneva is a city in Switzerland that lies at the southern tip of expansive Lac Léman (Lake Geneva). Surrounded by the Alps and Jura mountains, the city has views of dramatic Mont Blanc.",
     imageUrl: "https://source.unsplash.com/AWjVCFcUIbY"
   },
 ]
