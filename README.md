@@ -33,7 +33,7 @@ The code has been reviewed and approved by a Scrimba instructor.
 
 ### Screenshot
 
-![Screenshot of my solution](travel-journal/travel-journal_760.png)
+![Screenshot of my solution](/travel-journal/travel-journal_760.png)
 
 ### Links
 
@@ -41,7 +41,7 @@ The code has been reviewed and approved by a Scrimba instructor.
 
 ### Built with
 
-- HTML, CSS, JavaScript
+- ReactJS
 
 ## Author
 
