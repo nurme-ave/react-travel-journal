@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Travel Journal - React Solo Project at Scrimba
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a personal project built by [Ave Nurme](https://www.avenurme.dev).
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [Project Description](#project-description)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+- [Author](#author)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Project Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This was a dynamic data-driven React solo project at the Scrimba's Frontend Development Bootcamp. Solo project means that you are only provided with a set of requirements you need to implement in the project. There is no hand-holding or a walk-through solution with the instructor and you're on your own.
 
-### `npm test`
+Features I added myself:
+- I set up the React development environment with Create React App (version 18.1.0) on my own computer. This was not actually a requirement as Scrimba has its own environment which is already set up but I've always preferred to use my own local setup to get more practice.
+- added a favicon
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+New things learned:
+- the JSX syntax
+- custom components
+- props
+- display data dynamically
 
-### `npm run build`
+The page has been built with mobile-first design in mind and is fully responsive.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The code has been reviewed and approved by a Scrimba instructor.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Screenshot
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot of my solution](/travel-journal/public/travel-journal_760.png)
 
-### `npm run eject`
+### Links
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Live Site URL: [GitHub Pages](https://nurme-ave.github.io/react-travel-journal/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Built with
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- HTML, CSS, JavaScript
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Author
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Website - [Ave Nurme](https://www.avenurme.dev)
+- Twitter - [@ave\_nurme](https://twitter.com/ave_nurme) - Follow me doing my 3rd round of the 100DaysOfCode challenge!
+- Linkedin - [Ave Nurme](https://www.linkedin.com/in/ave-nurme)
+- YouTube - [Ave Nurme](https://www.youtube.com/channel/UC_kKIEE66Wa5bAxjqoI1A8w/videos)
+- Github - [@nurme-ave](https://github.com/nurme-ave)
+- Frontend Mentor - [@nurme-ave](https://www.frontendmentor.io/profile/nurme-ave)
