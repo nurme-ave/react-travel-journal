@@ -1,6 +1,5 @@
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-// import { faLocationDot } from '@fortawesome/free-solid-svg-icons';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLocationDot } from '@fortawesome/free-solid-svg-icons';
 
 function Card(props) {
   return (
@@ -9,7 +8,10 @@ function Card(props) {
       <div className="card-details-container">
         <div>
           <h2>{props.item.title}</h2>
-          <a href={props.item.googleMapsUrl} target="_blank" rel="noreferrer">View on Google Maps</a>
+          <a href={props.item.googleMapsUrl} target="_blank" rel="noreferrer">
+            <FontAwesomeIcon icon={ faLocationDot } className="icon-map" />
+            View on Google Maps
+          </a>
         </div>
         <p className="card-travel-time">{props.item.travelTime}</p>
         <p>{props.item.description}</p>

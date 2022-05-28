@@ -46,6 +46,11 @@ a {
   font-size: .8rem;
 }
 
+.icon-map {
+  margin-right: .4em;
+  color: red;
+}
+
 
 /* Footer */
 footer {

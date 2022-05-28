@@ -1,7 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitter, faYoutube, faGithub } from '@fortawesome/free-brands-svg-icons';
 
-
 function Footer() {
   return (
     <footer className="container">

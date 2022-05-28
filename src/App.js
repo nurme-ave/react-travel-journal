@@ -1,8 +1,8 @@
 import './App.css';
 import travelData from './data';
 import Header from '../src/components/Header';
-import Footer from '../src/components/Footer';
 import Card from '../src/components/Card';
+import Footer from '../src/components/Footer';
 
 function App() {
 
