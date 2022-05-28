@@ -33,7 +33,7 @@ The code has been reviewed and approved by a Scrimba instructor.
 
 ### Screenshot
 
-![Screenshot of my solution](/travel-journal/src/images/travel-journal_760.png)
+![Screenshot of my solution](/src/images/travel-journal_760.png)
 
 ### Links
 
