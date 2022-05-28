@@ -15,7 +15,7 @@ This is a personal project built by [Ave Nurme](https://www.avenurme.dev).
 
 ### Project Description
 
-This was a dynamic data-driven React solo project at the Scrimba's Frontend Development Bootcamp. Solo project means that you are only provided with a set of requirements you need to implement in the project. There is no hand-holding or a walk-through solution with the instructor and you're on your own.
+This was a data-driven React solo project at the Scrimba's Frontend Development Bootcamp. Solo project means that you are only provided with a set of requirements you need to implement in the project. There is no hand-holding or a walk-through solution with the instructor and you're on your own.
 
 Features I added myself:
 - I set up the React development environment with Create React App (version 18.1.0) on my own computer. This was not actually a requirement as Scrimba has its own environment which is already set up but I've always preferred to use my own local setup to get more practice.
