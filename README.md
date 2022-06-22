@@ -1,4 +1,4 @@
-# Travel Journal - React Solo Project at Scrimba
+# Travel Journal - React app
 
 This is a personal project built by [Ave Nurme](https://www.avenurme.dev).
 
@@ -15,21 +15,15 @@ This is a personal project built by [Ave Nurme](https://www.avenurme.dev).
 
 ### Project Description
 
-This was a data-driven React solo project at the Scrimba's Frontend Development Bootcamp. Solo project means that you are only provided with a set of requirements you need to implement in the project. There is no hand-holding or a walk-through solution with the instructor and you're on your own.
+This was my first data-driven React project where I learned about the JSX syntax, custom components, props and how to display data dynamically in React.
 
-Features I added myself:
-- I set up the React development environment with Create React App (version 18.1.0) on my own computer. This was not actually a requirement as Scrimba has its own environment which is already set up but I've always preferred to use my own local setup to get more practice.
-- added a favicon
+I also imported icons from Font Awesome for this project and found out that doing this in React is slightly different than how I was used to doing it in JavaScript.
 
-New things learned:
-- the JSX syntax
-- custom components
-- props
-- display data dynamically
+The data is stored in a separate data.js file as an array of objects. Each of the objects has an ID, title, Google Maps URL, travel time, short description and the image URL property.
+
+I have 3 components here: Header, Card & Footer. I'm passing the object into the Card component as a prop, destructuring this and then displaying all the data on the page for each card (travel destination).
 
 The page has been built with mobile-first design in mind and is fully responsive.
-
-The code has been reviewed and approved by a Scrimba instructor.
 
 ### Screenshot
 

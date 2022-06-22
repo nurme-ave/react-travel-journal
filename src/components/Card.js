@@ -1,20 +1,22 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLocationDot } from '@fortawesome/free-solid-svg-icons';
 
-function Card(props) {
+function Card({ item }) {
+  const { imageUrl, title, googleMapsUrl, travelTime, description } = item;
+
   return (
     <section className="card-container">
-      <img src={props.item.imageUrl} alt={props.item.title} className="card-image"/>
+      <img src={imageUrl} alt={title} className="card-image"/>
       <div className="card-details-container">
         <div>
-          <h2>{props.item.title}</h2>
-          <a href={props.item.googleMapsUrl} target="_blank" rel="noreferrer">
+          <h2>{title}</h2>
+          <a href={googleMapsUrl} target="_blank" rel="noreferrer">
             <FontAwesomeIcon icon={ faLocationDot } className="icon-map" />
             View on Google Maps
           </a>
         </div>
-        <p className="card-travel-time">{props.item.travelTime}</p>
-        <p>{props.item.description}</p>
+        <p className="card-travel-time">{travelTime}</p>
+        <p>{description}</p>
       </div>
     </section>
   )
